@@ -97,3 +97,11 @@ footer{
 footer nav{
 	float: none;
 }
+
+footer	nav ul li a{
+	text-decoration: none;
+}
+
+footer	a:hover{
+	text-decoration: underline;
+}
